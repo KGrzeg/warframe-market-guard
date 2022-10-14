@@ -1,0 +1,22 @@
+{
+  "name": "warframe-market-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Grzegorz Kupczyk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-request-throttle": "^1.0.0",
+    "axios-retry": "^3.3.1",
+    "node-jq": "^2.3.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
