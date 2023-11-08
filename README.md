@@ -1,7 +1,7 @@
 # Warframe Market Guard
 
 **Warframe Market Guard** is a script that scan your sale orders on [warframe.market](https://warframe.market/) and display other offers of the same items.
-The app helps you keep an eye on market changes and update your offers more easly.
+The app helps you keep an eye on market changes and update your offers more easily.
 Results are sorted into two groups:
 
 - Good offer - if your auction is not the cheapest on the market
@@ -9,7 +9,7 @@ Results are sorted into two groups:
 
 The scripts doesn't need any authorization.
 Publicly accesible, undocumented API endpoints are used.
-You can easly scan someone else profile if you want.
+You can easily scan someone else profile if you want.
 
 ## Demo
 
@@ -59,7 +59,7 @@ Tested on `Node v16.6.0` and `npm 8.11.0`
 🐧 npm install
 
 # run script
-🐧 npm start your_nickname
+🐧 npm start <your_nickname>
 ```
 
 ## License
